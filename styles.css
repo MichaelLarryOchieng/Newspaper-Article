@@ -1,0 +1,44 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.8;
+  background-color: #f9f9f9;
+}
+
+.header {
+  text-align: center;
+  background: linear-gradient(45deg, #ff7e5f, #feb47b);
+  color: white;
+  padding: 20px 10px;
+}
+
+.main-content {
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2, h3 {
+  color: indigo;
+  margin-bottom: 10px;
+}
+
+p {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 15px;
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+  text-align: center;
+  background: #333;
+  color: white;
+  padding: 10px 0;
+}
